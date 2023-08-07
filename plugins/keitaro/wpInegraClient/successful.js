@@ -56,6 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // console.log(url);return
         fetch( url )
         .then(x => x.text().then(x => {
+
             
             if(!x) {
                 console.log('huy')

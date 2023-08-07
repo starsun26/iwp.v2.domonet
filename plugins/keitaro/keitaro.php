@@ -2,7 +2,7 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       super keitaro
+ * Plugin Name:       super keitaro (domonetka)
  * Version:           1.0.0
  * Text Domain:       keitaro
  */
